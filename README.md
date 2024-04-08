@@ -1,2 +1,2 @@
 # leetcode
-git repo having coding solution to leetcode questions
+git repo having coding solution to leet-code questions
